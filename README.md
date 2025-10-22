@@ -31,5 +31,5 @@ A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It
 
 Feel free to reach out for collaboration or job opportunities!
 
-- Email: komalpradipballewar@gmail.com
+- Email: komalballewar12@gmail.com
 
