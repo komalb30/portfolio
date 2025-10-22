@@ -13,7 +13,7 @@ A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It
 
 ### ✨ Features:
 - 🎨 Modern, responsive design with animated backgrounds
-- 📱 Mobile-friendly layout-
+- 📱 Mobile-friendly layout
 - 🔍 Sections for skills, projects, and contact information
 - 🔗 Social media integration
 - 📄 Resume download functionality
@@ -31,5 +31,5 @@ A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It
 
 Feel free to reach out for collaboration or job opportunities!
 
-- Email: komalballewar12@gmail.com
+- Email: komalpradipballewar@gmail.com
 
