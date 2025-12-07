@@ -2,14 +2,15 @@
 ### 🚀 Overview:
 A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It presents my skills, projects, and contact details through an elegant, interactive interface designed to effectively highlight my capabilities.
 
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image1.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image2.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image3.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image4.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image5.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image6.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image7.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/my-portfolio/blob/main/images/image8.png"/> 
+
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image1.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image2.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image3.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image4.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image5.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image6.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image7.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image8.png"/> 
 
 
 ### ✨ Features:
