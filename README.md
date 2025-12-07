@@ -4,13 +4,13 @@ A modern, responsive portfolio website built using HTML, CSS, and JavaScript. It
 
 
 <img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image1.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image2.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image3.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image4.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image5.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image6.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image7.png"/>
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/images/image8.png"/> 
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image2.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image3.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image4.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image5.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image6.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image7.png"/>
+<img width="918" height="518" alt="image" src="https://github.com/komalb30/portfolio/blob/main/image/image8.png"/> 
 
 
 ### ✨ Features:
